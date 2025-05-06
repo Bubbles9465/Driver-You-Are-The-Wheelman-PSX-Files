@@ -1,0 +1,166 @@
+164
+RETURN TO MAIN OPTIONS					 	 	
+EXIT TO WINDOWS                
+START GAME
+CHANGE SETUP OPTIONS
+GET A NEW JOB
+HEAR PREVIOUS MESSAGE
+REPLAY CURRENT MESSAGE
+HEAR NEXT MESSAGE 
+RETURN TO FLAT
+EXIT
+SETUP GRAPHICS OPTIONS
+SETUP SOUND OPTIONS
+SETUP CONTROL OPTIONS
+SETUP NETWORK OPTIONS
+SET DETAIL LEVELS
+OK		  
+FILTERING
+GAMMA CORRECTION
+ON
+OFF
+DRAW SHADOWS
+DRAW TYRE TRACKS
+DRAW SMOKE
+SHINY CARS
+PEDESTRIAN DENSITY
+SCREEN SIZE
+VIEWING DISTANCE
+NEAR
+FAR
+SFX VOLUME
+MUSIC
+SUBTITLES
+TURN LEFT
+TURN RIGHT
+ACCELERATE
+BRAKE
+WHEELSPIN
+FAST STEER
+PRESS CONTROL REQUIRED TO
+NEW GAME
+LOAD GAME
+PRACTICE
+QUIT
+REALLY QUIT?
+YES
+NO
+REPLAY LAST JOB
+PAUSED
+RETURN TO GAME
+TEXTURED
+UNTEXTURED
+OVERLAY MAP
+TRANSPARENT WATER
+LOAD SAVED GAME
+CANCEL
+GAME
+SAVE GAME
+UNUSED
+CORRUPT DATA
+Yes
+No
+Really delete this camera?
+Add a new camera
+Modify the current camera
+Delete the current camera
+Go to next keyframe
+Go to previous keyframe
+Continue
+Car-fixed camera
+In-car camera
+Static camera
+Static camera (focused on car)
+Toggle lens-type
+Accept
+Cancel
+Trigger sooner
+Trigger later
+LEAVES
+CURRENT FEE = $
+FINAL FEE = $
+THREE
+TWO
+ONE
+GO
+CHECK POINT
+RACE OVER
+GAME OVER
+Options:
+Detail
+Sound
+Control
+Gameplay
+Detail:
+Shadows
+Smoke
+Leaves
+Rear View Mirror
+Tyre Tracks
+Shiny Cars
+Lens Flare
+Transparent Water
+Overlay Map
+Pedestrian Density
+Viewing Distance
+Flat
+Full
+On
+Off
+Control:
+Input device:
+Controls
+Reset to defaults
+Redefine
+Force feedback
+Keyboard
+Joystick
+Not Available
+Sound:
+Effects
+Music
+Effects volume
+Music volume
+Gameplay:
+Difficulty
+Auto Handbrake
+Easy
+Medium
+Hard
+Training:
+Car park
+Desert
+Choose your city:
+Miami
+San Francisco
+Los Angeles
+New York
+Quick Race:
+Quick Chase:
+Take A Ride:
+Load game:
+Empty
+Load replay:
+Key Redefine:
+Steer Left
+Steer Right
+Fast Steer
+Accelerate
+Burn Out
+Brake
+Handbrake
+Look Left
+Look Right
+Look Behind
+Cruise Control
+Hear Previous Message
+Replay Current Message
+Hear Next Message
+Accept Mission
+Return To Flat
+Quit Back To Title Screen
+Take A Drive
+Options
+Get A New Job
+Save Game
+END
